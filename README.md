@@ -1,2 +1,2 @@
-# git-tutorial
-this is fpr git tutorial
+# DEMO
+this is for git tutorial
